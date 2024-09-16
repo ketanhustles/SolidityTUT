@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "iszero",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Basics/6.require.sol": "req"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Basics/6.require.sol": {
+			"keccak256": "0xa6e1d2428b835c467f6b016bd7906e480e7924f0c1337db2e023ffdc4bb59eee",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://27060dc550a7fecebaaf70613e7369500ef54db0387bbdcbdbe592bdd644d721",
+				"dweb:/ipfs/QmabNJntxg92NAn3hmcSrKrJAnfrMvhv8Ho7oWg3w4t2YF"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "looplapeta",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Basics/4.loops.sol": "loops"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Basics/4.loops.sol": {
+			"keccak256": "0xb09ad6e78eff5362efdaba13530ef5b4da4d8f607d98289b51ae0aa307abbc88",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2527f77356bbfadcd69d4a7a89c8e8e64a3ef67606e197d948f57e9c26a31b4e",
+				"dweb:/ipfs/QmRFpusnP1Xh3bjqAkXFQSDKqErkHYnc5rtdq49igCxWZC"
+			]
+		}
+	},
+	"version": 1
+}
